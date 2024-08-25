@@ -1,0 +1,4 @@
+1- Si quieres más background, si estás en una empresa que se use AWS, que es muy común, saber utilizar sus herramientas y conocer el ecosistema te ahorra mucho tiempo y te da valor en la empresa.
+ 
+2- Te puedo decir que mi empresa movió/está moviendo todo a AWS... y tuvimos que hacer "cursos" (como ese) de AWS oficial, osea que si te lo "quitas de encima" desde ya, eso que te llevas.
+ 
